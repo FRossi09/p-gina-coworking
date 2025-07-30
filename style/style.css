@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+P{
+    color: darkblue;
+    font-family:"Open Sans", sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: red;
+    font-family: "Intel One Mono", system-ui;
+    font-size: 70px;
+}
+
+
+.header-container{
+   /* border: 1px solid red;*/
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#header-btn{
+    background-color: brown;
+    color:white;
+    text-decoration: none;
+    width: 200px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 5px;
+}
+
+#ofc-image{
+    opacity: 0.5;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.cards-container{
+    margin: 10px;
+}
+
+.review-container{
+    background-color: rgb(210, 62, 62);
+   height: 200px;
+    width: 100%;
+}
+
