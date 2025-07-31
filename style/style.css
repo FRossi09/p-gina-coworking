@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-P{
+p{
     color: darkblue;
     font-family:"Open Sans", sans-serif;
     font-size: 20px;
@@ -48,5 +48,9 @@ h1{
     background-color: rgb(210, 62, 62);
    height: 200px;
     width: 100%;
+}
+
+.navbar-container{
+
 }
 
