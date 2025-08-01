@@ -46,7 +46,7 @@ h1{
 
 .review-container{
     background-color: rgb(210, 62, 62);
-   height: 200px;
+   height: 200%;
     width: 100%;
 }
 
@@ -57,3 +57,7 @@ h1{
     width: 100%;
    height: 200% ;
 } 
+
+.navbar1{
+    text-align: center;
+}
